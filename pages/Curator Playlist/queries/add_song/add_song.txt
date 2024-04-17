@@ -1,0 +1,4 @@
+{
+	"PlaylistID": {{Curator_Playlists.selectedRow.PlaylistID}},
+	"SongID":{{Songs_By_Genre.selectedRow.SongID}}
+}

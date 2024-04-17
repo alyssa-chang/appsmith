@@ -1,0 +1,4 @@
+{
+	"CuratorID": {{Table1.selectedRow.CuratorID}},
+	"Post_Content": {{JSONForm1.formData.Post_Content}}
+}

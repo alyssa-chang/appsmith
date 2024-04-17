@@ -1,0 +1,82 @@
+{
+  "pages": [
+    {
+      "id": "Main",
+      "isDefault": true
+    },
+    {
+      "id": "ArtistSong",
+      "isDefault": false
+    },
+    {
+      "id": "Curator Main",
+      "isDefault": false
+    },
+    {
+      "id": "Curator Page",
+      "isDefault": false
+    },
+    {
+      "id": "Curator Playlist",
+      "isDefault": false
+    },
+    {
+      "id": "Messages",
+      "isDefault": false
+    },
+    {
+      "id": "User Main",
+      "isDefault": false
+    },
+    {
+      "id": "Playlists",
+      "isDefault": false
+    },
+    {
+      "id": "Comments Artist Posts",
+      "isDefault": false
+    },
+    {
+      "id": "Comment Curator Post",
+      "isDefault": false
+    },
+    {
+      "id": "Artist Main Page",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    },
+    "navigationSetting": {
+      "showNavbar": true,
+      "orientation": "side",
+      "navStyle": "sidebar",
+      "position": "static",
+      "itemStyle": "text",
+      "colorStyle": "light",
+      "logoAssetId": "",
+      "logoConfiguration": "logoAndApplicationTitle",
+      "showSignIn": true
+    }
+  },
+  "color": "#F1DEFF",
+  "icon": "music",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "FLUID"
+  },
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
